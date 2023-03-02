@@ -1,0 +1,14 @@
+let array = ["Mercury", "Venus", "Earth", "Mars"];
+console.log(array);
+array.push("Jupiter");
+console.log(array);
+array.unshift("Sun");
+console.log(array);
+array.pop();
+console.log(array);
+array.pop();
+console.log(array);
+array.shift();
+console.log(array);
+array.shift();
+console.log(array);
